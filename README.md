@@ -1,2 +1,2 @@
-# patikaworkshop
-Repo for patika workshop
+# ICP Workshop repo
+
